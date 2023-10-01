@@ -12,6 +12,7 @@
     <artifactId>sky-take-out</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>sky-common</module>
         <module>sky-pojo</module>
@@ -30,6 +31,7 @@
         <jjwt>0.9.1</jjwt>
         <jaxb-api>2.3.1</jaxb-api>
         <poi>3.16</poi>
+        <java.version>8</java.version>
     </properties>
     <dependencyManagement>
         <dependencies>
